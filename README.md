@@ -1,4 +1,6 @@
-<h1>rhapi.com <span><a href="https://github.com/roundhouse/API-Cacher">github.com/roundhouse/API-Cacher</a></span></h1> 
+  <h1>Cashmachine <span><a href="https://github.com/joshellington/Cashmachine">github.com/joshellington/Cashmachine</a></span></h1> 
+
+  <h2>Retrieves popular JSON/XML-based APIs and caches them. Requires memcached.</h2>
 
   <p class="border"><em>Pass type (xml, json) and/or limit as query parameters. Defaults are type=json and limit=API_DEFAULT.</em></p> 
    
@@ -47,4 +49,4 @@
   <li>Add expiration time parameter</li> 
   <li>Add Flickr class</li> 
   <li>Add authentication</li> 
-  </ul> 
+  </ul>
